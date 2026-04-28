@@ -1,0 +1,508 @@
+{
+    "bookmarks": [
+        {
+            "color": 3016518185,
+            "comment": "Offset of graphic mask files entries",
+            "highlightVisible": true,
+            "id": 4,
+            "locked": true,
+            "name": "Mask offset [0x24 - 0x27]",
+            "region": {
+                "address": 36,
+                "size": 4
+            }
+        },
+        {
+            "color": 3016518185,
+            "comment": "Section with Mask filenames (12bytes)",
+            "highlightVisible": true,
+            "id": 9,
+            "locked": true,
+            "name": "Mask section [0x58 - 0x187]",
+            "region": {
+                "address": 88,
+                "size": 304
+            }
+        },
+        {
+            "color": 1338462486,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 18,
+            "locked": true,
+            "name": "Bustup offset [0x2C - 0x2F]",
+            "region": {
+                "address": 44,
+                "size": 4
+            }
+        },
+        {
+            "color": 1340881720,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 17,
+            "locked": true,
+            "name": "Bustup Data [0xB15C - 0x6F637]",
+            "region": {
+                "address": 45404,
+                "size": 410844
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 10,
+            "locked": true,
+            "name": "BGM offset [0x34 - 0x37]",
+            "region": {
+                "address": 52,
+                "size": 4
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 11,
+            "locked": true,
+            "name": "BGM DATA [0x701A0 - 0x718FF]",
+            "region": {
+                "address": 459168,
+                "size": 5984
+            }
+        },
+        {
+            "color": 3005861063,
+            "comment": "Sound effects - backgrounds",
+            "highlightVisible": true,
+            "id": 5,
+            "locked": false,
+            "name": "SEBG offset [0x38 - 0x3B]",
+            "region": {
+                "address": 56,
+                "size": 4
+            }
+        },
+        {
+            "color": 3005861035,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 6,
+            "locked": true,
+            "name": "SEBG Data [0x71900 - 0x7257B]",
+            "region": {
+                "address": 465152,
+                "size": 3196
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 15,
+            "locked": false,
+            "name": "Movie offset [0x3C - 0x3F]",
+            "region": {
+                "address": 60,
+                "size": 4
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 16,
+            "locked": true,
+            "name": "Movie Data [0x7257C - 0x727D1]",
+            "region": {
+                "address": 468348,
+                "size": 598
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 19,
+            "locked": true,
+            "name": "PictureBox Offset [0x44 - 0x47]",
+            "region": {
+                "address": 68,
+                "size": 4
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 20,
+            "locked": true,
+            "name": "PictureBox Data [0x91794 - 0x918FB]",
+            "region": {
+                "address": 595860,
+                "size": 360
+            }
+        },
+        {
+            "color": 3005840844,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 8,
+            "locked": true,
+            "name": "MusicBox offset [0x48 - 0x4B]",
+            "region": {
+                "address": 72,
+                "size": 4
+            }
+        },
+        {
+            "color": 3005833676,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 7,
+            "locked": true,
+            "name": "MusicBox Data [0x727D4 - 0x72927]",
+            "region": {
+                "address": 596220,
+                "size": 676
+            }
+        },
+        {
+            "color": 3009489356,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 14,
+            "locked": true,
+            "name": "Tips offset [0x4C - 0x4F]",
+            "region": {
+                "address": 76,
+                "size": 4
+            }
+        },
+        {
+            "color": 3009489356,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 13,
+            "locked": true,
+            "name": "Tips DATA [0x72D18 - 0x7779B]",
+            "region": {
+                "address": 470296,
+                "size": 19076
+            }
+        },
+        {
+            "color": 3016518185,
+            "comment": "Offset of graphic mask files entries",
+            "highlightVisible": true,
+            "id": 4,
+            "locked": true,
+            "name": "Mask offset [0x24 - 0x27]",
+            "region": {
+                "address": 36,
+                "size": 4
+            }
+        },
+        {
+            "color": 3016518185,
+            "comment": "Section with Mask filenames (12bytes)",
+            "highlightVisible": true,
+            "id": 9,
+            "locked": true,
+            "name": "Mask section [0x58 - 0x187]",
+            "region": {
+                "address": 88,
+                "size": 304
+            }
+        },
+        {
+            "color": 3013159372,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 29,
+            "locked": true,
+            "name": "PIC Offset [0x28 - 0x2B]",
+            "region": {
+                "address": 40,
+                "size": 4
+            }
+        },
+        {
+            "color": 3013159372,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 27,
+            "locked": true,
+            "name": "PIC Data [0x188 - 0xB159]",
+            "region": {
+                "address": 392,
+                "size": 45010
+            }
+        },
+        {
+            "color": 1338462486,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 18,
+            "locked": true,
+            "name": "Bustup offset [0x2C - 0x2F]",
+            "region": {
+                "address": 44,
+                "size": 4
+            }
+        },
+        {
+            "color": 1340881720,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 17,
+            "locked": true,
+            "name": "Bustup Data [0xB15C - 0x6F637]",
+            "region": {
+                "address": 45404,
+                "size": 410844
+            }
+        },
+        {
+            "color": 1340809984,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 26,
+            "locked": true,
+            "name": "Anime offset [0x30 - 0x33]",
+            "region": {
+                "address": 48,
+                "size": 4
+            }
+        },
+        {
+            "color": 3010004021,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 25,
+            "locked": true,
+            "name": "Anime Data [0x6F63C - 0x7019F]",
+            "region": {
+                "address": 456252,
+                "size": 2916
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 10,
+            "locked": true,
+            "name": "BGM offset [0x34 - 0x37]",
+            "region": {
+                "address": 52,
+                "size": 4
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 11,
+            "locked": true,
+            "name": "BGM DATA [0x701A0 - 0x718FF]",
+            "region": {
+                "address": 459168,
+                "size": 5984
+            }
+        },
+        {
+            "color": 3005861063,
+            "comment": "Sound effects - backgrounds",
+            "highlightVisible": true,
+            "id": 5,
+            "locked": false,
+            "name": "SEBG offset [0x38 - 0x3B]",
+            "region": {
+                "address": 56,
+                "size": 4
+            }
+        },
+        {
+            "color": 3005861035,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 6,
+            "locked": true,
+            "name": "SEBG Data [0x71900 - 0x7257B]",
+            "region": {
+                "address": 465152,
+                "size": 3196
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 15,
+            "locked": false,
+            "name": "Movie offset [0x3C - 0x3F]",
+            "region": {
+                "address": 60,
+                "size": 4
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 16,
+            "locked": true,
+            "name": "Movie Data [0x7257C - 0x727D1]",
+            "region": {
+                "address": 468348,
+                "size": 598
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 19,
+            "locked": true,
+            "name": "PictureBox Offset [0x44 - 0x47]",
+            "region": {
+                "address": 68,
+                "size": 4
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 20,
+            "locked": true,
+            "name": "PictureBox Data [0x91794 - 0x918FB]",
+            "region": {
+                "address": 595860,
+                "size": 360
+            }
+        },
+        {
+            "color": 3005840844,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 8,
+            "locked": true,
+            "name": "MusicBox offset [0x48 - 0x4B]",
+            "region": {
+                "address": 72,
+                "size": 4
+            }
+        },
+        {
+            "color": 3005833676,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 7,
+            "locked": true,
+            "name": "MusicBox Data [0x918FC - 0x91B9F]",
+            "region": {
+                "address": 596220,
+                "size": 676
+            }
+        },
+        {
+            "color": 3009489356,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 14,
+            "locked": true,
+            "name": "Tips offset [0x4C - 0x4F]",
+            "region": {
+                "address": 76,
+                "size": 4
+            }
+        },
+        {
+            "color": 3009489356,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 13,
+            "locked": true,
+            "name": "Tips DATA [0x72D18 - 0x7779B]",
+            "region": {
+                "address": 470296,
+                "size": 19076
+            }
+        },
+        {
+            "color": 3016532521,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 24,
+            "locked": true,
+            "name": "CharFlags Offset [0x50 - 0x53]",
+            "region": {
+                "address": 80,
+                "size": 4
+            }
+        },
+        {
+            "color": 3016532521,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 23,
+            "locked": true,
+            "name": "CharFlags Data [0x88C24 - 0x91793]",
+            "region": {
+                "address": 560164,
+                "size": 35696
+            }
+        },
+        {
+            "color": 3011955753,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 22,
+            "locked": true,
+            "name": "Char Bio offset [0x54 - 0x57]",
+            "region": {
+                "address": 84,
+                "size": 4
+            }
+        },
+        {
+            "color": 3011955753,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 21,
+            "locked": true,
+            "name": "Char Bio Data [0x7779C - 0x88C21]",
+            "region": {
+                "address": 489372,
+                "size": 70790
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "highlightVisible": true,
+            "id": 31,
+            "locked": false,
+            "name": "Bytecode offset [0x20 - 0x23]",
+            "region": {
+                "address": 32,
+                "size": 4
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "Example of setting a variable to 60 (60 ticks = 1s), using that same variable as argument for wipe and then returning",
+            "highlightVisible": true,
+            "id": 34,
+            "locked": true,
+            "name": "WIPE with var [0x92250 - 0x9225A]",
+            "region": {
+                "address": 598608,
+                "size": 11
+            }
+        }
+    ]
+}
